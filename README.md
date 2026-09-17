@@ -52,7 +52,7 @@ This dataset was used to perform sales and profitability analysis and create the
 * Ship Mode filter
 * Interactive KPI cards and charts
 * DAX-based calculations and measures
-* Interactive dashboard for exploring sales and business performance
+
 
 ---
 
